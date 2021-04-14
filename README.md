@@ -1,1 +1,1 @@
-This is a  message encoding decoding source code in python .  
+This is a source code for encoding and decoding a message in python .  
